@@ -1,0 +1,10 @@
+/* 
+  Local.strings
+  BasicSwiftApp
+
+  Created by Eric Passmore on 9/7/20.
+  Copyright © 2020 Calder Group Inc. All rights reserved.
+*/
+
+"main" = "Main";
+"secondary" = "Secondary";
